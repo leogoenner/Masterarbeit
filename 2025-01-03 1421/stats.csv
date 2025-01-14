@@ -1,0 +1,12 @@
+epochs,times,losses,accuracies,ranks
+0,,2.3044832,0.1275,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+1,429.4773201942444,1.4391129,0.4926,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+2,417.9882924556732,1.1635821,0.596,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+3,422.162091255188,1.0959288,0.6304,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+4,415.7055983543396,0.9423628,0.6756,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+5,415.85680890083313,0.906279,0.6858,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+6,418.23200035095215,0.88017976,0.6975,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+7,414.2362594604492,0.8105442,0.7197,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+8,416.8222908973694,0.77296585,0.7306,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+9,418.529333114624,0.7357351,0.7454,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
+10,416.3445544242859,0.7368548,0.7466,"{0: TensorShape([3, 3, 3, 12]), 1: TensorShape([3, 3, 12, 24]), 4: TensorShape([3, 3, 24, 32]), 5: TensorShape([3, 3, 32, 32])}"
