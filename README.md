@@ -1,6 +1,6 @@
 # Training of Convolutional Neural Networks using Tucker Decompositions
 
-This repository contains the code and for my master's thesis.
+This repository contains the code for my master's thesis.
 
 The execution of the file main.py starts the training of a CNN.
 All parameters can be specified in parameters.py.
